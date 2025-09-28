@@ -13,7 +13,7 @@ By tackling questions from basic to complex, this project showcases the ability 
 ## 🗂 Entity Relationship Diagram (ERD)
 The project database uses five main tables:
 
-![ERD Diagram](images/erd_diagram.png)
+![ERD Diagram](erd_diagram.png)
 
 
 ---
